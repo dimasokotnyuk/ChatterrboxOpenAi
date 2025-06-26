@@ -9,4 +9,4 @@ Technologies Used :
 - Codable (JSONEncoder/JSONDecoder) – for encoding requests and parsing responses
 - OpenAI API – as the AI-driven chat backend
 
-![](https://github.com/dimasokotnyuk/ChatterrboxOpenAi/blob/main/Demonstration%20openAI.gif?raw=true)
+![](https://github.com/dimasokotnyuk/ChatterrboxOpenAi/blob/main/Demonstration%20open%20AI.gif?raw=true)
